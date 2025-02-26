@@ -30,6 +30,3 @@ npm start
 - Hardhat
 - MetaMask Wallet
 - React.js
-
-## License
-MIT
